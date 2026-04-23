@@ -100,7 +100,7 @@ This is the skeleton. It's free and it works for pains 1, 2, and 3.
 
 Pain 4 — actually trusting the system enough to hand off — is harder. That's a voice teardown on your real emails, a citation library built with you, and a system you can hand to a teammate without rewriting their drafts.
 
-The [2-day workshop](#) is where we do that work together. Small group. You leave with a system you'd actually let run without you in the loop.
+The [workshop](https://www.gomodulr.com/email-voice-workshop) is where we do that work together. Small group. You leave with a system you'd actually let run without you in the loop.
 
 ---
 
