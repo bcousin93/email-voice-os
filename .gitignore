@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.local
+node_modules/
+.vscode/
+.idea/
+*.log
+
+# Claude Code local settings (not checked in by convention)
+.claude/settings.local.json
