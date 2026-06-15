@@ -1,0 +1,14 @@
+{
+  "PostToolUse": [
+    {
+      "matcher": "Write|Edit",
+      "hooks": [
+        {
+          "type": "prompt",
+          "prompt": "A file was just written or edited. If the file path is inside a `voice-os/outputs/` folder OR the filename contains 'draft' or 'email', run the bundled anti-AI lint by executing `${CLAUDE_PLUGIN_ROOT}/scripts/check-anti-ai.sh <full-file-path>` and surface every [FLAG] line back to the user as a system-level note. Do not block the write — just inform. If the file is not an email draft, do nothing.",
+          "timeout": 20
+        }
+      ]
+    }
+  ]
+}

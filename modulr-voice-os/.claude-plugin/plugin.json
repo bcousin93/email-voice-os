@@ -1,0 +1,17 @@
+{
+  "name": "modulr-voice-os",
+  "version": "0.1.1",
+  "description": "Email drafting OS that sounds like you, not AI. Built by MODULR.",
+  "author": {
+    "name": "MODULR"
+  },
+  "keywords": [
+    "email",
+    "copywriting",
+    "voice",
+    "marketing",
+    "modulr"
+  ],
+  "homepage": "https://www.gomodulr.com",
+  "license": "MIT"
+}

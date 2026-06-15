@@ -1,0 +1,16 @@
+{
+  "name": "MODULR",
+  "owner": "modulr",
+  "description": "Plugins for marketers and operators who want to sound like themselves at scale.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "modulr-voice-os",
+      "source": "./plugins/modulr-voice-os",
+      "version": "0.1.1",
+      "description": "Email drafting OS that sounds like you, not AI. Wizard-driven setup, anti-AI gate, citation discipline.",
+      "category": "marketing",
+      "tags": ["email", "copywriting", "voice", "marketing"]
+    }
+  ]
+}
