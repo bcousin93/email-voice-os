@@ -12,9 +12,10 @@ Always read in this order:
 
 1. `context/brand-voice.md` — how they talk
 2. `context/anti-ai-phrases.md` — words and phrases you are NEVER allowed to use
-3. `context/audience.md` — who they're writing to
-4. `context/offers.md` — what they sell, with verified sources
-5. `context/company-context.md` — positioning, philosophy, proof points
+3. `context/concise-copy.md` — the brevity + specificity bar (Zinsser): cut clutter, make it concrete
+4. `context/audience.md` — who they're writing to
+5. `context/offers.md` — what they sell, with verified sources
+6. `context/company-context.md` — positioning, philosophy, proof points
 
 Then read the relevant file in `templates/` for the format they're writing in.
 
@@ -28,9 +29,11 @@ Then check `examples/` for their actual past work and match that style.
 
 3. **Match the voice patterns in `context/brand-voice.md`, not generic marketing voice.** If the voice file says "use contractions," use contractions. If it lists signature phrases, weave them in naturally. If it forbids certain structures, avoid them.
 
-4. **Use the structure from `templates/`, not your default email structure.** The owner has decided how their emails flow. Follow it.
+4. **Run every draft through `context/concise-copy.md` before handing it back.** Cut the clutter (delete words that do no work) and make every general claim concrete (a number, a name, a scene) or cut it. If a sentence loses nothing when deleted, delete it.
 
-5. **When a human asks for a draft, produce a draft — not an explanation of how you'd draft it.** Skip the preamble. Write the email.
+5. **Use the structure from `templates/`, not your default email structure.** The owner has decided how their emails flow. Follow it.
+
+6. **When a human asks for a draft, produce a draft — not an explanation of how you'd draft it.** Skip the preamble. Write the email.
 
 ## Workflow when asked to draft an email
 
